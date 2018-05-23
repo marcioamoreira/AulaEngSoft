@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1527103150 source:g:\unicesumar\2018-1sem\est_de_dados_i\2bim\pjtcalculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Operacoes.h"
+	"funcoes.h"
+	"Controle.h"
+
+1527104068 g:\unicesumar\2018-1sem\est_de_dados_i\2bim\pjtcalculadora\operacoes.h
+
+1527104224 g:\unicesumar\2018-1sem\est_de_dados_i\2bim\pjtcalculadora\funcoes.h
+	<math.h>
+
+1527097674 g:\unicesumar\2018-1sem\est_de_dados_i\2bim\pjtcalculadora\controle.h
+
+1527103150 source:f:\unicesumar\2018-1sem\est_de_dados_i\2bim\pjtcalculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Operacoes.h"
+	"funcoes.h"
+	"Controle.h"
+
+1527104068 f:\unicesumar\2018-1sem\est_de_dados_i\2bim\pjtcalculadora\operacoes.h
+
+1527104224 f:\unicesumar\2018-1sem\est_de_dados_i\2bim\pjtcalculadora\funcoes.h
+	<math.h>
+
+1527097674 f:\unicesumar\2018-1sem\est_de_dados_i\2bim\pjtcalculadora\controle.h
+
